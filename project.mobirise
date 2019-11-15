@@ -7,9 +7,9 @@
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#ffffff",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#1a0648",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -20,7 +20,10 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#ff690e",
+        "#1a0648"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
@@ -48,7 +51,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1357.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#28324e",
@@ -60,22 +63,27 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "ESTRATÉGIAS PARA REDUÇÃO DE CUSTOS EM TRANSPORTADORAS<br><br>",
+          "title": "<br>ESTRATÉGIAS PARA REDUÇÃO DE CUSTOS EM TRANSPORTADORAS<br><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
           "_tags": [
             "Layout"
           ],
           "_name": "header1",
-          "_anchor": "header1-0"
+          "_anchor": "header1-0",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
-          "text": "<blockquote>Quer seja em períodos de crise ou não – o sucesso de uma gestão sempre está vinculado à redução de custos e melhor gestão dos recursos financeiros de uma empresa. Uma gestão de qualidade, consegue administrar as finanças de forma mais acurada, contendo despesas e aplicando estratégias que tornam o negócio mais lucrativo.\n</blockquote><blockquote>Entretanto, cortes em investimento ou de capital em uma empresa podem ser perigosos, se feitos de uma forma desorganizada. Existem uma série de fatores e riscos em operações, e para ajudar nessa difícil tarefa que separamos aqui algumas dicas valiosas que podem ajudar a otimizar os custos logísticos em sua transportadora.\n</blockquote>",
+          "text": "<blockquote><p><br></p><p>Quer seja em períodos de crise ou não – o sucesso de uma gestão sempre está vinculado à redução de custos e melhor gestão dos recursos financeiros de uma empresa. Uma gestão de qualidade, consegue administrar as finanças de forma mais acurada, contendo despesas e aplicando estratégias que tornam o negócio mais lucrativo.\n</p></blockquote><blockquote>Entretanto, cortes em investimento ou de capital em uma empresa podem ser perigosos, se feitos de uma forma desorganizada. Existem uma série de fatores e riscos em operações, e para ajudar nessa difícil tarefa que separamos aqui algumas dicas valiosas que podem ajudar a otimizar os custos logísticos em sua transportadora.\n</blockquote>",
           "_tags": [
             "Layout"
           ],
@@ -160,7 +168,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SYLOG® TECNOLOGIA</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SYLOG® TECNOLOGIA</a>",
           "_tags": [
             "Layout"
           ],
@@ -173,7 +181,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>Quer seja em períodos de crise ou não – o sucesso de uma gestão sempre está vinculado à redução de custos e melhor gestão dos recursos financeiros de uma empresa. Uma gestão de qualidade, consegue administrar as finanças de forma mais acurada, contendo despesas e aplicando estratégias que tornam o negócio mais lucrativo.</p><p><br></p><p>\n</p><p>Entretanto, cortes em investimento ou de capital em uma empresa podem ser perigosos, se feitos de uma forma desorganizada. Existem uma série de fatores e riscos em operações, e para ajudar nessa difícil tarefa que separamos aqui algumas dicas valiosas que podem ajudar a otimizar os custos logísticos em sua transportadora.</p>",
+          "text1": "<p>Quer seja em períodos de crise ou não – o sucesso de uma gestão sempre está vinculado à redução de custos e melhor gestão dos recursos financeiros de uma empresa. Uma gestão de qualidade, consegue administrar as finanças de forma mais acurada, contendo despesas e aplicando estratégias que tornam o negócio mais lucrativo.</p><p><b><br></b></p><p>\n</p><p>Entretanto, cortes em investimento ou de capital em uma empresa podem ser perigosos, se feitos de uma forma desorganizada. Existem uma série de fatores e riscos em operações, e para ajudar nessa difícil tarefa que separamos aqui algumas dicas valiosas que podem ajudar a otimizar os custos logísticos em sua transportadora.</p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "_tags": [
             "Layout"
