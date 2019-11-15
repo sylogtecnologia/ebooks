@@ -457,6 +457,34 @@ section.form .container {
 #header1-0 .mbr-section-title {
   color: #ffffff;
 }
+#header6-8 .mbr-section-title {
+  color: #ffffff;
+}
+#header6-8 .mbr-section-text {
+  color: #ffffff;
+  font-size: 18px;
+  text-align: left;
+}
+#msg-box8-c .mbr-section-title,
+#msg-box8-c .lead {
+  color: #fff;
+}
+#msg-box8-c .mbr-section-title {
+  text-align: center;
+}
+#content5-a .mbr-section-title,
+#content5-a .lead {
+  color: #fff;
+}
+#content5-a .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-a .lead P {
+  font-size: 20px;
+  color: #000000;
+}
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -520,11 +548,22 @@ section.form .container {
 }
 #content6-4 .lead P {
   text-align: left;
-  font-size: 18px;
+  font-size: 20px;
 }
-#header6-8 .mbr-section-title {
-  color: #28262b;
+#content5-e .mbr-section-title,
+#content5-e .lead {
+  color: #fff;
 }
-#header6-8 .mbr-section-text {
-  color: #565656;
+#content5-e .mbr-section-title {
+  text-align: center;
+  font-size: 30px;
+  color: #ff690e;
+}
+#content5-e .lead P {
+  font-size: 20px;
+  color: #000000;
+}
+#content6-f .lead P {
+  text-align: left;
+  font-size: 20px;
 }
